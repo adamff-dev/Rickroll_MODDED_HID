@@ -24,3 +24,7 @@ CTRL z
 ENTER
 DELAY 100
 STRING start F.bat</pre></code>
+
+# Code for Arduino
+
+<a href="https://github.com/BlueArduino20/Rickroll-MODDED/blob/master/Rickroll-MODDED-for-Arduino.ino">Rickroll-MODDED-for-Arduino.ino</a>
