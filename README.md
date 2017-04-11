@@ -40,12 +40,12 @@ ENTER
 STRING copy con volup.vbs
 ENTER
 STRING do
-  ENTER
-  STRING Set WshShell = CreateObject("WScript.Shell")
-  ENTER
-  STRING WshShell.SendKeys(chr(&hAF))
-  ENTER
-  STRING loop
+ENTER
+STRING Set WshShell = CreateObject("WScript.Shell")
+ENTER
+STRING WshShell.SendKeys(chr(&hAF))
+ENTER
+STRING loop
 ENTER
 CTRL z
 ENTER
