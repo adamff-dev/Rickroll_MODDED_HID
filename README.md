@@ -1,5 +1,5 @@
 # Rickroll MODDED
-This is a modification from the real "Rickroll". It does the same, but it's got a big difference: It sets the volume to the maximum continuously. What happens if someone tries to get down the volume? A vbs resets it to the maximum level. It seems funny, isn't it?
+This is a modification from the real "<a href="https://gitlab.com/WarKitteh/arduino-hid-rickroll">Rickroll</a>". It does the same, but it's got a big difference: It sets the volume to the maximum continuously. What happens if someone tries to get down the volume? A vbs resets it to the maximum level. It seems funny, isn't it?
 # About...
 Version: 1.0
 
