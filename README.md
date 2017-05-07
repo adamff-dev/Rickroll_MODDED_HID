@@ -50,7 +50,8 @@ STRING loop
 ENTER
 CTRL z
 ENTER
-STRING start rickyou.vbs && volup.vbs</pre></code>
+STRING start rickyou.vbs && volup.vbs
+ENTER</pre></code>
 
 # Code for Arduino
 
