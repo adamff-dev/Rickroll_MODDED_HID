@@ -21,7 +21,7 @@ STRING Dim oPlayer
 ENTER
 STRING Set oPlayer = CreateObject("WMPlayer.OCX")
 ENTER
-STRING oPlayer.URL = "https://pixelcoding.nl/download/rickroll.mp3"
+STRING oPlayer.URL = "https://gourl.page.link/mkrX"
 ENTER
 STRING oPlayer.controls.play
 ENTER
