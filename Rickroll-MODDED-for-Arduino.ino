@@ -47,7 +47,7 @@ void setup() {
 
 	typeKey(KEY_RETURN);
 
-	Keyboard.print("oPlayer.URL = \"https://pixelcoding.nl/download/rickroll.mp3\"");
+	Keyboard.print("oPlayer.URL = \"https://gourl.page.link/mkrX\"");
 
 	typeKey(KEY_RETURN);
 
