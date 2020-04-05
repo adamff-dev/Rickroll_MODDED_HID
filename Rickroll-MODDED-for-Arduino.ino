@@ -47,7 +47,7 @@ void setup() {
 
 	typeKey(KEY_RETURN);
 
-	Keyboard.print("oPlayer.URL = \"https://gourl.page.link/mkrX\"");
+	Keyboard.print("oPlayer.URL = \"http://tinyurl.com/s63ve48\"");
 
 	typeKey(KEY_RETURN);
 
